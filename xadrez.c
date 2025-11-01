@@ -8,9 +8,9 @@ int main() {
 
     // Declaração das Variaveis
 
-    int MOVIMENTOS_TORRE = 5;
-    int MOVIMENTOS_BISPO = 5;
-    int MOVIMENTOS_RAINHA = 8;
+    const int MOVIMENTOS_TORRE = 5;
+    const int MOVIMENTOS_BISPO = 5;
+    const int MOVIMENTOS_RAINHA = 8;
 
     printf("### Desafio ADS: Movimentando as Peças do Xadrez ###\n");
     printf("=====================================================\n\n");
